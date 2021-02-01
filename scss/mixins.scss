@@ -1,0 +1,16 @@
+@mixin flexable() {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin flexableBetween() {
+  display: flex;
+  justify-content: space-between;
+}
+
+@mixin noBorderBtn() {
+  font-family: ProximaNova;
+  background: none;
+  border: none;
+  cursor: pointer;
+};

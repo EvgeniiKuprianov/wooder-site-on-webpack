@@ -1,0 +1,41 @@
+{
+  "name": "makettt",
+  "version": "1.0.0",
+  "description": "* Babel\r * Css\r * Sass\r * Sass resources (variables and mixins auto included)\r * Ejs",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "ejs-plain-loader": "^1.4.1",
+    "file-loader": "^6.2.0",
+    "html-loader": "^1.3.2",
+    "html-webpack-plugin": "^4.5.0",
+    "mini-css-extract-plugin": "^1.3.2",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0",
+    "style-loader": "^2.0.0",
+    "ttf-loader": "^1.0.2",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js": "^0.1.0",
+    "loader": "^2.1.1",
+    "url-loader": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiKuprianov/https-github.com-EvgeniiKuprianov-cassiopeia-MainPage-ejs-scss-webpack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EvgeniiKuprianov/https-github.com-EvgeniiKuprianov-cassiopeia-MainPage-ejs-scss-webpack/issues"
+  },
+  "homepage": "https://github.com/EvgeniiKuprianov/https-github.com-EvgeniiKuprianov-cassiopeia-MainPage-ejs-scss-webpack#readme"
+}
